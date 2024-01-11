@@ -12,6 +12,8 @@
 
 Граф:
 
+!(https://github.com/PavlenkoOksana/goit-algo-hw-06/blob/main/Figure_1.png)
+
 graph = {
     "Київ": ["мацква", "1", "3"],
     "1": ["Київ", "2"],

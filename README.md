@@ -12,7 +12,6 @@
 
 Граф:
 
-!(https://github.com/PavlenkoOksana/goit-algo-hw-06/blob/main/Figure_1.png)
 
 ![Graf](https://github.com/PavlenkoOksana/goit-algo-hw-06/assets/107678761/9009ecc1-7cfd-4010-aa04-7b4050d55801)
 
